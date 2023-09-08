@@ -1,0 +1,13 @@
+button {
+  background-color: rgb(128, 128, 128);
+  border: solid white;
+  padding: 1em;
+  border-radius: 1em;
+  color: black;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4c00ff;
+  color: black;
+}
